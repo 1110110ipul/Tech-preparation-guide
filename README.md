@@ -51,6 +51,17 @@ TOPICS :
     -  NGRX if you are into angular development
     -  Redux if you are into react/nextjs , there are many more but this will provide you good grounds to use any other state management in future
    
+  - Other concepts :
+      difference between http and https
+      websocket and webrtc connection
+      reverse proxy
+      CI/CD pipeline
+      Docker container
+      Containerization
+      gitignore
+      global code formatting configuration files
+      testing your frontend application
+   
   - Coding tool and code management setup (My personal preference) :
       - editor : vs code
       - ts/js file code format : prettier
