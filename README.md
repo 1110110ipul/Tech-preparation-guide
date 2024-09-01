@@ -6,9 +6,8 @@ It's not complete, and never be complete it's always work inprogress, since tech
 # Why ?
   so, while preparing for preparing for job switch, i was clueless after 2 years of not doing anything related to looking for job, so thought it would be better to have a single place where i can come back and look at things to prepare for future interviews.
 
-# let's start:
-
-## content : 
+# let's start
+###  content : 
   - Resume builders
   - Frontend devs
 
