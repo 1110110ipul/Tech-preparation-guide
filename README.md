@@ -49,6 +49,16 @@ TOPICS :
   - state Managament :
     -  NGRX if you are into angular development
     -  Redux if you are into react/nextjs , there are many more but this will provide you good grounds to use any other state management in future
+
+  - Code bundler :
+    - webpack
+    - ESBuild
+    - Vite
+        
+  - Build tools :
+      - ESBuild
+      - NX
+      - turborepo
    
   - Other concepts :
       difference between http and https
